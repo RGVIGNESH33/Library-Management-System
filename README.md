@@ -1,0 +1,31 @@
+# Library Management System
+
+## Description
+A simple Library Management System developed to manage books, members, book issuing, and book returns efficiently.
+
+## Problem Statement
+Managing library records manually is difficult, time-consuming, and can lead to errors.
+
+## Objectives
+- Manage book records
+- Store member details
+- Issue and return books
+- Reduce manual work
+
+## Features
+- Add books
+- View books
+- Search books
+- Issue books
+- Return books
+- Manage members
+
+## Technologies Used
+- Python
+- SQLite
+
+## Future Scope
+- Online book reservation
+- Fine calculation
+- Barcode scanning
+
