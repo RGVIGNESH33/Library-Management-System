@@ -28,11 +28,4 @@ This project provides a simple and user-friendly system to manage books, members
 - Improves accuracy
 - Easy record management
 
-## Future Enhancements
-- Online book reservation
-- Fine calculation
-- Barcode scanning
-- Email notifications
 
-## Author
-Vignesh
